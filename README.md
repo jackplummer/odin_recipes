@@ -2,4 +2,4 @@
 Recipe Website from The Odin Project
 
 ## Description
-This website is a culmination of my learning from The Odin Project - HTML Foundations course. This will be very rudimentary but will be later improved with CSS.
+This website is a culmination of my learning from The Odin Project - HTML Foundations course. This has been improved with rudimentary CSS changing the font and image size. This will be later improved.
